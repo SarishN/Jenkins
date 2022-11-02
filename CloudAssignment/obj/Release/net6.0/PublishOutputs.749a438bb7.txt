@@ -1,0 +1,14 @@
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\CloudAssignment.exe
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\CloudAssignment.dll
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\CloudAssignment.deps.json
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\CloudAssignment.runtimeconfig.json
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\CloudAssignment.pdb
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\AWSSDK.Core.dll
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\AWSSDK.Extensions.NETCore.Setup.dll
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\AWSSDK.S3.dll
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\inperson training\CloudAssignment\CloudAssignment\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
